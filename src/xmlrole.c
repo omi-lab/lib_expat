@@ -43,7 +43,7 @@
 #include <stddef.h>
 
 #ifdef _WIN32
-#  include "winconfig.h"
+#  include "expat/winconfig.h"
 #endif
 
 #include "expat/expat_external.h"

@@ -90,7 +90,7 @@
 #endif
 
 #ifdef _WIN32
-#  include "winconfig.h"
+#  include "expat/winconfig.h"
 #endif
 
 #include "expat/ascii.h"
